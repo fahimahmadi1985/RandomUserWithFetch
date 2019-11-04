@@ -27,8 +27,8 @@ Note: You will need to have Node 8.10.0 or later versions on your machine.
     "deploy" : "gh-pages -d build" `
     
 4- Create a github repository, initialize and add it as a remote in your local git repository
-    ~ 4.1- use ```git init``` to initialize
-    ~ 4.2- use ```git remote add https://github.com/{userAccount}/{repositoryName}.git```
+    * 4.1- use ```git init``` to initialize
+    * 4.2- use ```git remote add https://github.com/{userAccount}/{repositoryName}.git```
     
 5- Use ```npm run deploy``` to start the deployment process
 6- Use ```git add . ``` to add all files for commiting
