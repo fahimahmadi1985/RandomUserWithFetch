@@ -27,7 +27,7 @@ export default function Randomuser() {
         <input type="submit" value="Send Request" />
       </form>
       {users && (
-        <div classNaame="container mr-5 ml-5"
+        <div classNaame="container mr-5 ml-5">
         <table className="table mt-5 ">
           <thead>
             <tr>
