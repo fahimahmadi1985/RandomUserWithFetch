@@ -27,7 +27,7 @@ export default function Randomuser() {
         <input type="submit" value="Send Request" />
       </form>
       {users && (
-        <table className="table mt-5">
+        <table className="table mt-5 container mr-5 ml-5">
           <thead>
             <tr>
               <th>Cell #</th>
